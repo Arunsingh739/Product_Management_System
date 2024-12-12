@@ -7,6 +7,7 @@
 •	Enhanced user experience by adding features like advanced search, sorting, and input validation.
 •	Implemented dynamic search and sorting mechanisms for enhanced usability, allowing users to filter products by attributes such as price, category, or name.
 
+<br>
 
 1. Purpose
 "This project is a Product Management System designed for managing an inventory of products. The primary goal was to allow users to add, retrieve, update, and delete products across multiple categories while ensuring data integrity and efficient performance."
