@@ -1,7 +1,7 @@
 # Product_Management_System
-Project Title: Product Management System
-Technologies: Java, Collection Framework, JDBC, MySQL
-Description:
+<p>Project Title: Product Management System</p>
+<p>Technologies: Java, Collection Framework, JDBC, MySQL</p>
+<p>Description:</p>
 •	Built a Java-based Product Management System to facilitate seamless CRUD (Create, Read, Update, Delete) operations for various product categories.
 •	Designed and implemented a scalable architecture integrating backend business logic with a relational database for efficient data storage and retrieval.
 •	Enhanced user experience by adding features like advanced search, sorting, and input validation.
